@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Fpril/Valentines_day_compana/issues"
   },
-  "homepage": "https://github.com/Fpril/Valentines_day_compana#readme"
+  "homepage": "https://github.com/Fpril/Valentines_day_compana#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
